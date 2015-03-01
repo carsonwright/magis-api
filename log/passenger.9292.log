@@ -1,0 +1,12 @@
+[ 2014-12-31 14:44:37.7230 1187/0x7fff798ea300 agents/Watchdog/Main.cpp:538 ]: Options: { 'analytics_log_user' => 'carsonwright', 'cleanup_pidfiles' => 'L3Zhci9mb2xkZXJzL2Z6L3RoODZqeTRqNjlsOGt4bjd5cXBteGdwMDAwMDBnbi9UL3Bhc3Nlbmdlci1zdGFuZGFsb25lLnllaGxqZC90ZW1wX2Rpcl90b3VjaGVyLnBpZA==', 'default_group' => 'staff', 'default_python' => 'python', 'default_ruby' => '/Users/carsonwright/.rvm/gems/ruby-2.1.2/wrappers/ruby', 'default_user' => 'carsonwright', 'log_level' => '0', 'max_pool_size' => '6', 'passenger_root' => '/var/folders/fz/th86jy4j69l8kxn7yqpmxgp00000gn/T/passenger-standalone.yehljd/locations.ini', 'passenger_version' => '4.0.56', 'pool_idle_time' => '300', 'prestart_urls' => 'aHR0cDovLzAuMC4wLjA6OTI5MgA=', 'temp_dir' => '/tmp', 'union_station_gateway_address' => 'gateway.unionstationapp.com', 'union_station_gateway_port' => '443', 'user_switching' => 'false', 'web_server_passenger_version' => '4.0.56', 'web_server_pid' => '1186', 'web_server_type' => 'nginx', 'web_server_worker_gid' => '-1', 'web_server_worker_uid' => '-1' }
+[ 2014-12-31 14:44:37.7366 1189/0x7fff798ea300 agents/HelperAgent/Main.cpp:650 ]: PassengerHelperAgent online, listening at unix:/tmp/passenger.1.0.1186/generation-0/request
+[ 2014-12-31 14:44:37.7430 1191/0x7fff798ea300 agents/LoggingAgent/Main.cpp:321 ]: PassengerLoggingAgent online, listening at unix:/tmp/passenger.1.0.1186/generation-0/logging
+[ 2014-12-31 14:44:37.7432 1187/0x7fff798ea300 agents/Watchdog/Main.cpp:728 ]: All Phusion Passenger agents started!
+App 1205 stdout: 
+[ 2014-12-31 14:44:40.7678 1189/0x10590b000 Pool2/SmartSpawner.h:298 ]: Preloader for /Users/carsonwright/Projects/nil/api started on PID 1205, listening on unix:/tmp/passenger.1.0.1186/generation-0/backends/preloader.q7uur6
+App 1227 stdout: 
+App 1231 stdout: 
+App 1233 stdout: 
+App 3627 stdout: 
+[ 2015-01-01 13:34:49.0903 1189/0x105d0d000 Pool2/SmartSpawner.h:298 ]: Preloader for /Users/carsonwright/Projects/nil/api started on PID 3627, listening on unix:/tmp/passenger.1.0.1186/generation-0/backends/preloader.2jwmgm
+App 3640 stdout: 
